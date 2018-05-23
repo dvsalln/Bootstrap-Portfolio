@@ -12,17 +12,35 @@ section {
     margin-bottom: 100px;
     text-align: left;
     float: left;
-    background: url("images/block.jpg");
+    background: url("images/hex.jpg");
     color: #666;
-    height: 600px;
+    height: 575px;
     width: 830px;
 }
 
-#portimg {
-    float: left;
-    padding: 13.5%;
+li {
+
 }
 
+#cardimg {
+    margin-left: 20px;
+    padding: 2%;
+}
+
+#gameimg {
+    margin-left: 20px;
+    padding: 2%;
+}
+
+#newsimg {
+    margin-left: 20px;
+    padding: 2%;
+}
+
+#musicimg {
+    margin-left: 20px;
+    padding: 2%;
+}
 
 .list-group-item {
     background: url("images/hex.jpg");
@@ -40,6 +58,30 @@ section {
     background: url("images/hex.jpg");
 }
 
+
+.container {
+    color: #ebebeb;
+    padding: 1%;
+}
+
+.row {
+    padding: 1%;
+
+}
+
+.col-3 {
+    margin: auto;
+    padding: 1%;
+}
+
+.col-2 {
+    padding: 1%;
+}
+
+.col-6 {
+    
+    padding: 3%;
+}
 
 @media (max-width: 980px) { 
 
